@@ -1,0 +1,13 @@
+libasm.so
+*.o
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+build/
+.vscode/
+
+strcasecmp.asm
+main.c
